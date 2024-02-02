@@ -4,7 +4,7 @@
 
 
 
-Вот [ черновые требования ]( Requirements analysis ) для 1ой версии приложения. Не обращайте внимание на другие реализованные функции.
+Вот [ черновые требования ]( https://docs.google.com/spreadsheets/d/10zXkRP5fqNhCJb3NUw8lTemCZCNRJVk9UPE9r4ipX1o/edit#gid=0)  для 1ой версии приложения. Не обращайте внимание на другие реализованные функции.
 
 
 
@@ -13,3 +13,5 @@
 
 
 В реальной работе вы будете анализировать требования без возможности увидеть рабочее приложение.
+
+[ Моё решение ]( https://docs.google.com/spreadsheets/d/1A-Dx1Gq5u_KeuuEOFToP1YUpfTScibYK12H-xVfBONw/edit#gid=0 )
